@@ -1,0 +1,7 @@
+Java is a versatile programming language known for its portability, scalability, and robustness.
+It is widely used in developing applications for various platforms, from mobile devices to enterprise-level systems.
+Java supports object-oriented programming principles, making code modular and reusable.
+
+The Java Virtual Machine (JVM) is responsible for executing Java bytecode, ensuring compatibility across different operating systems.
+Garbage collection in Java automatically manages memory by removing unused objects, helping prevent memory leaks.
+Java also has a rich set of APIs for networking, file handling, and user interface development.

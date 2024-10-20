@@ -1,0 +1,5 @@
+A thread in Java is a lightweight process. Threads allow a program to operate more efficiently by doing multiple things at once.
+In Java, a thread can be created by implementing the Runnable interface or by extending the Thread class.
+The Thread class itself provides methods like start(), run(), and sleep(). Creating a thread involves invoking the start() method,
+which in turn calls the run() method where the actual work is defined.
+Thread synchronization is important when multiple threads access shared resources.

@@ -1,0 +1,5 @@
+Java's multithreading capability enables programs to perform multiple tasks concurrently.
+Each thread in a Java program runs independently of others unless they share resources, in which case synchronization is necessary.
+The Runnable interface in Java allows for defining a thread’s tasks without extending the Thread class.
+In this way, you can create a new thread while still inheriting from another class if needed.
+Java also provides various thread states like NEW, RUNNABLE, BLOCKED, and TERMINATED.
